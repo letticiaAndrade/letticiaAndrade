@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Letícia</h1>
 <h3 align="center">WELCOME TO MY PROFILE!</h3>
 
+<%= render(Primer::OcticonComponent.new(:"thumbsup")) %>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letticiaandrade&label=Profile%20views&color=0e75b6&style=flat" alt="letticiaandrade" /> </p>
 
 - 📫 How to reach me **leticiaae@hotmail.com.br**
@@ -17,5 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=letticiaandrade&show_icons=true&theme=gotham&locale=en&layout=compact" alt="letticiaandrade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letticiaandrade&show_icons=true&theme=gotham&locale=en" alt="letticiaandrade" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letticiaandrade&theme=gotham" alt="letticiaandrade" /></p>
