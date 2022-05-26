@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Letícia</h1>
 <h3 align="center">WELCOME TO MY PROFILE!</h3>
 
-<%= render(Primer::OcticonComponent.new(:"thumbsup")) %>
-
+https://custom-icon-badges.herokuapp.com/github/followers/letticiaAndrade?logo=person-add&style=social
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letticiaandrade&label=Profile%20views&color=0e75b6&style=flat" alt="letticiaandrade" /> </p>
 
 - 📫 How to reach me **leticiaae@hotmail.com.br**
