@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE!;STUDYING)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=letticiaAndrade)](https://git.io/streak-stats)
 <!---
 letticiaAndrade/letticiaAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
