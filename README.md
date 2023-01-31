@@ -20,4 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=letticiaandrade&show_icons=true&theme=gotham&locale=en&layout=compact" alt="letticiaandrade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letticiaandrade&show_icons=true&theme=gotham&locale=en" alt="letticiaandrade" /></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=letticiaandrade&theme=gotham" alt="letticiaandrade" /><img width= 470px margin-left= 12px src="demon_slayer_tanjiro_run.webp"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=letticiaandrade&theme=gotham" alt="letticiaandrade" /><img align="right" width= 470px  src="demon_slayer_tanjiro_run.webp"></p>
