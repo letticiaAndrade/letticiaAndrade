@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Letícia</h1>
 
-  
-
- 
    
 
 - 📫 How to reach me **leticiaae@hotmail.com.br**
