@@ -19,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letticiaandrade&show_icons=true&theme=gotham&locale=en" alt="letticiaandrade" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=letticiaandrade&theme=gotham" alt="letticiaandrade" /><img align="right" width= 320px  src="demon_slayer_tanjiro_run.webp"></p>
+
