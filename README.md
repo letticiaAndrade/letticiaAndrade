@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Letícia</h1>
 
-
 - 📫 How to reach me **leticiaae@hotmail.com.br**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=WELCOME+TO+MY+PROFILE!;STUDYING...)](https://git.io/typing-svg)
 
