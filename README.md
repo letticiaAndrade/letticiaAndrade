@@ -3,6 +3,7 @@
 - 📫 How to reach me **leticiaae@hotmail.com.br**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=WELCOME+TO+MY+PROFILE!;STUDYING...)](https://git.io/typing-svg)
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/let%C3%ADcia-matos-831a0322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letícia-matos-831a0322a" height="30" width="40" /></a>
